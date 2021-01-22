@@ -26,6 +26,8 @@ Trips by Gender by Weekday:
 
 Top Starting Locations:
 
+![Screen Shot 2021-01-22 at 2 55 59 PM](https://user-images.githubusercontent.com/16258584/105549209-440e4d00-5cc6-11eb-91a3-2bfc7e7b379c.png)
+
 Top Ending Locations:
 
 Gender Breakdown:
