@@ -14,6 +14,8 @@ Checkout Times for Users:
 
 Checkout Times by Gender:
 
+![Screen Shot 2021-01-22 at 2 55 12 PM](https://user-images.githubusercontent.com/16258584/105548732-a024a180-5cc5-11eb-9d98-8dc76888a0fd.png)
+
 Trips by Weekday per Hour: 
 
 Trips by Gender by Weekday:
