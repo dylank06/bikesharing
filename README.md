@@ -42,11 +42,14 @@ Top Ending Locations:
 
 ![Screen Shot 2021-01-22 at 2 56 09 PM](https://user-images.githubusercontent.com/16258584/105549282-64d6a280-5cc6-11eb-87e8-fa93af47b1ed.png)
 
-
-THis geographical map shows the staring locations for NYC Citibike rides.
+THis geographical map shows the ending locations for NYC Citibike rides. This useful for planning bike pickups. 
 
 Gender Breakdown:
 
+![Screen Shot 2021-01-22 at 2 56 19 PM](https://user-images.githubusercontent.com/16258584/105549405-85066180-5cc6-11eb-9004-1d7f5b26431e.png)
 
+This pie chart shows the number of rides split between male, female, and unkown. THe chart shows that males are the majority of Citibike rides. 
 
 ## Summary 
+
+The combination of the different charts, maps, and graphs tell a vivid story on who the NYC Citibike customer base is. Citibike riders are most likely to be male and will most often be traveling before or after work during the weekdays. To gain more insight there would need to be more data so we could identify seasonal and long term trends to try to forecast the future better. 
