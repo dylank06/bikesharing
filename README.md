@@ -18,6 +18,8 @@ Checkout Times by Gender:
 
 Trips by Weekday per Hour: 
 
+![Screen Shot 2021-01-22 at 2 55 37 PM](https://user-images.githubusercontent.com/16258584/105548916-e24de300-5cc5-11eb-819e-00e0b59de813.png)
+
 Trips by Gender by Weekday:
 
 Top Starting Locations:
