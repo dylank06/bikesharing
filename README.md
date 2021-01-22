@@ -30,6 +30,10 @@ Top Starting Locations:
 
 Top Ending Locations:
 
+![Screen Shot 2021-01-22 at 2 56 09 PM](https://user-images.githubusercontent.com/16258584/105549282-64d6a280-5cc6-11eb-87e8-fa93af47b1ed.png)
+
 Gender Breakdown:
+
+
 
 ## Summary 
