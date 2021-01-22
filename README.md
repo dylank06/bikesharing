@@ -22,6 +22,8 @@ Trips by Weekday per Hour:
 
 Trips by Gender by Weekday:
 
+https://github.com/dylank06/bikesharing/issues/4#issue-792316272
+
 Top Starting Locations:
 
 Top Ending Locations:
