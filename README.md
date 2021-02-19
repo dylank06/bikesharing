@@ -2,9 +2,26 @@
 
 Link to Dashboard: https://public.tableau.com/shared/STXHJGXQR?:display_count=y&:origin=viz_share_link
 
-## Overview
+## Summary 
 
-The purpose of this ananlysis was to create a visual story of NYC Citibikes raw data and turn it into useful information using Tableau. To present a business proposal for a bike-sharing company. Created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
+- The purpose of this ananlysis was to create a visual story of NYC Citibikes raw data and turn it into useful information using Tableau. To present a business proposal for a bike-sharing company. Created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
+
+## Overview of Analysis
+
+### Change Trip Duration to A Datetime Format 
+
+- Used Python and Pandas functions, to convert the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). After converting the "tripduration" column to a datetime dataytpe, I exported the DataFrame as a CSV file to use for the trip analysis.
+
+### Create Visualizations for the Trip Analysis
+
+- Using Tableau, created visualizations that show:
+  - How long bikes are checked out for all riders and genders.
+  - How many trips are taken by the hour for each day of the week, for all riders and genders.
+  - A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender.
+
+### Create a Story and Report for the Final Presentation 
+
+- Created a story in Tableau and write a report that describes the key outcomes of the NYC Citibike analysis.
 
 ## Results
 
@@ -50,6 +67,6 @@ Gender Breakdown:
 
 This pie chart shows the number of rides split between male, female, and unkown. THe chart shows that males are the majority of Citibike rides. 
 
-## Summary 
+## Results 
 
 The combination of the different charts, maps, and graphs tell a vivid story on who the NYC Citibike customer base is. Citibike riders are most likely to be male and will most often be traveling before or after work during the weekdays. To gain more insight there would need to be more data so we could identify seasonal and long term trends to try to forecast the future better. 
