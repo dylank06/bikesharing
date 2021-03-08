@@ -4,7 +4,7 @@ Link to Dashboard: https://public.tableau.com/shared/STXHJGXQR?:display_count=y&
 
 ## Summary 
 
-- The purpose of this ananlysis was to create a visual story of NYC Citibikes raw data and turn it into useful information using Tableau. To present a business proposal for a bike-sharing company. Created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
+- The purpose of this analysis was to create a visual story of NYC Citibikes raw data and turn it into useful information using Tableau. To present a business proposal for a bike-sharing company. Created worksheets, dashboards, and stories to visualize key data from a New York Citi Bike dataset.
 
 ## Overview of Analysis
 
